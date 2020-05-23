@@ -13,4 +13,5 @@ The `TabView` component has the following unique styling properties:
 * `androidSelectedTabHighlightColor`<sup>android specific property</sup> (corresponding CSS property `android-selected-tab-highlight-color`) - Sets the underline color of the tabs in Android.
 
 XML
+
 <snippet id='tab-view-styling-xml'/>

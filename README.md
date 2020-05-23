@@ -10,12 +10,13 @@ It is very easy to contribute to the samples and we encourage you to contribute 
 
 All the samples have automated tests associated with them and you can be sure that they work with the latest NativeScript version.
 
-*The code is NativeScript Core based (using JavaScript)*
+*The code is NativeScript Core based (using JavaScript)*:
 
 We hope you will enjoy using this resource, if you have any feedback please [open an issue.](https://github.com/NativeScript/nativescript-sdk-examples-js/issues)
 
-### Run the app from source code
-```
+## Run the app from source code
+
+``` Shell
 git clone https://github.com/NativeScript/nativescript-sdk-examples-js.git
 cd nativescript-sdk-examples-js
 tns run android|ios

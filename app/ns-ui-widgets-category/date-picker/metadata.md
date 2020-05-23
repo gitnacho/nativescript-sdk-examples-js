@@ -4,4 +4,5 @@ description: DatePicker is UI control, which allows choosing a date from a ready
 position: 210
 slug: date-picker
 ---
+
 example-order: usage, styling

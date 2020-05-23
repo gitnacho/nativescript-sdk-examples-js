@@ -11,6 +11,6 @@
 
 ## API References
 
-| Name     | Type    | 
+| Name     | Type    |
 |----------|---------|
-| [tns-core-modules/http](http://docs.nativescript.org/api-reference/modules/_http_.html) | `Module` | 
+| [tns-core-modules/http](http://docs.nativescript.org/api-reference/modules/_http_.html) | `Module` |

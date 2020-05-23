@@ -1,14 +1,16 @@
 ## Tips And Tricks
 
 ### Creating DatePicker via Code-Behind
+
 Using a `DatePicker` in code-behind files requires the `tns-core-modules/ui/date-picker` module.
+
 <snippet id='date-picker-require'/>
 <snippet id='date-picker-require-ts'/>
 
 Creating and controlling `DatePicker` programmatically.
+
 <snippet id='date-picker-code-behind'/>
 <snippet id='date-picker-code-behind-ts'/>
-
 
 ## Properties
 
@@ -35,11 +37,10 @@ Creating and controlling `DatePicker` programmatically.
 | Name     | Type    |
 |----------|---------|
 | [tns-core-modules/ui/date-picker](https://docs.nativescript.org/api-reference/modules/_ui_date_picker_ ) | `Module` |
-| [DatePicker](https://docs.nativescript.org/api-reference/classes/_ui_date_picker_.datepicker) | `Class`  | 
+| [DatePicker](https://docs.nativescript.org/api-reference/classes/_ui_date_picker_.datepicker) | `Class`  |
 
 ## Native Component
 
 | Android               | iOS      |
 |:----------------------|:---------|
-| [android.widget.DatePicker](http://developer.android.com/reference/android/widget/DatePicker.html)  | [UIDatePicker](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIDatePicker_Class/index.html) | 
-
+| [android.widget.DatePicker](http://developer.android.com/reference/android/widget/DatePicker.html)  | [UIDatePicker](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIDatePicker_Class/index.html) |

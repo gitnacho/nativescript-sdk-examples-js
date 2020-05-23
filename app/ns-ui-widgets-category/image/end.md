@@ -11,13 +11,12 @@
 | `stretch`   | `Stretch` | Gets or sets the image stretch mode. |
 | `tintColor`   | `Color` | A color used to tint template images. |
 
-
 ## API References
 
-| Name     | Type    | 
+| Name     | Type    |
 |----------|---------|
-| [tns-core-modules/ui/image](http://docs.nativescript.org/api-reference/modules/_ui_image_.html) | `Module` | 
-| [Image](https://docs.nativescript.org/api-reference/classes/_ui_image_.image) | `Class` | 
+| [tns-core-modules/ui/image](http://docs.nativescript.org/api-reference/modules/_ui_image_.html) | `Module` |
+| [Image](https://docs.nativescript.org/api-reference/classes/_ui_image_.image) | `Class` |
 
 ## Native Component
 

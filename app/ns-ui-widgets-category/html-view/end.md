@@ -15,9 +15,8 @@
 
 | Name     | Type    | API Reference Link |
 |----------|---------|--------------------|
-| [HtmlView](https://docs.nativescript.org/api-reference/modules/_ui_html_view_) | `Module` | 
-| [HtmlView](https://docs.nativescript.org/api-reference/classes/_ui_html_view_.htmlview) | `Class` | 
-
+| [HtmlView](https://docs.nativescript.org/api-reference/modules/_ui_html_view_) | `Module` |
+| [HtmlView](https://docs.nativescript.org/api-reference/classes/_ui_html_view_.htmlview) | `Class` |
 
 ## Native Component
 

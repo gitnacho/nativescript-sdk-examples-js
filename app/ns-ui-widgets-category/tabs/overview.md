@@ -2,8 +2,8 @@ The `Tabs` component provides a simple way to navigate between different views w
 
 The `Tabs` component roundup
 
-- Semantic: Mid Level Navigation
-- Usage: Unlimited Tabs with common function
-- Transitions: Slide Transition indicating the relative position to each other
-- Gestures: Swipe Gesture
-- Preloading: At least 1 to the sides (because of the swipe gesture)
+* Semantic: Mid Level Navigation
+* Usage: Unlimited Tabs with common function
+* Transitions: Slide Transition indicating the relative position to each other
+* Gestures: Swipe Gesture
+* Preloading: At least 1 to the sides (because of the swipe gesture)

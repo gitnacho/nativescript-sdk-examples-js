@@ -1,7 +1,7 @@
 
 **API Reference for the** [SegmentedBar Class](http://docs.nativescript.org/api-reference/modules/_ui_segmented_bar_.html)
 
-**Native Component**
+**Native Component**:
 
 | Android                | iOS      |
 |:-----------------------|:---------|

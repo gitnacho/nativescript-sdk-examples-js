@@ -14,10 +14,10 @@
 
 ## API References
 
-| Name     | Type    | 
+| Name     | Type    |
 |----------|---------|
-| [tns-core-modules/ui/list-picker](http://docs.nativescript.org/api-reference/modules/_ui_list_picker_.html) | `Module` | 
-| [ListPicker](https://docs.nativescript.org/api-reference/classes/_ui_list_picker_.listpicker) | `Class` | 
+| [tns-core-modules/ui/list-picker](http://docs.nativescript.org/api-reference/modules/_ui_list_picker_.html) | `Module` |
+| [ListPicker](https://docs.nativescript.org/api-reference/classes/_ui_list_picker_.listpicker) | `Class` |
 
 ## Native Component
 

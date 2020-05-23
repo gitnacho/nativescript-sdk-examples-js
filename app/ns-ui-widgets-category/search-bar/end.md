@@ -20,16 +20,15 @@
 | `clear`  | Emitted when the search is cleared (via the clear button). |
 | `submit` | Emitted when the serach term is submitted.   |
 
-
 ## API References
 
-| Name     | Type    | 
+| Name     | Type    |
 |----------|---------|
-| [tns-core-modules/ui/search-bar](https://docs.nativescript.org/api-reference/modules/_ui_search_bar_) | `Module` | 
-| [SearchBar](https://docs.nativescript.org/api-reference/classes/_ui_search_bar_.searchbar) | `Class` | 
+| [tns-core-modules/ui/search-bar](https://docs.nativescript.org/api-reference/modules/_ui_search_bar_) | `Module` |
+| [SearchBar](https://docs.nativescript.org/api-reference/classes/_ui_search_bar_.searchbar) | `Class` |
 
 ## Native Component
 
 | Android               | iOS      |
 |:----------------------|:---------|
-| [android.widget.SearchView](https://developer.android.com/reference/android/widget/SearchView) | [UISearchBar](https://developer.apple.com/documentation/uikit/uisearchbar) | 
+| [android.widget.SearchView](https://developer.android.com/reference/android/widget/SearchView) | [UISearchBar](https://developer.apple.com/documentation/uikit/uisearchbar) |

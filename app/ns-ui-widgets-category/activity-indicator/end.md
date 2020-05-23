@@ -15,11 +15,10 @@
 
 ## API References
 
-| Name               | Type     | 
+| Name               | Type     |
 |:-------------------|:---------|
-| [ActivityIndicator](http://docs.nativescript.org/api-reference/modules/_ui_activity_indicator_)           | `Module` | 
+| [ActivityIndicator](http://docs.nativescript.org/api-reference/modules/_ui_activity_indicator_)           | `Module` |
 | [ActivityIndicator](https://docs.nativescript.org/api-reference/classes/_ui_activity_indicator_.activityindicator) | `Class` |
-
 
 ## Native Component
 

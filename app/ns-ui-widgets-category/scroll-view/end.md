@@ -12,10 +12,10 @@
 
 ## API References
 
-| Name     | Type    | 
+| Name     | Type    |
 |----------|---------|
-| [tns-core-modules/ui/scroll-view](http://docs.nativescript.org/api-reference/modules/_ui_scroll_view_.html) | `Module` | 
-| [ScrollView](https://docs.nativescript.org/api-reference/classes/_ui_scroll_view_.scrollview) | `Class` | 
+| [tns-core-modules/ui/scroll-view](http://docs.nativescript.org/api-reference/modules/_ui_scroll_view_.html) | `Module` |
+| [ScrollView](https://docs.nativescript.org/api-reference/classes/_ui_scroll_view_.scrollview) | `Class` |
 | [orientation](https://docs.nativescript.org/api-reference/classes/_ui_scroll_view_.scrollview#orientation) |`Property`|
 | [ScrollEventData](https://docs.nativescript.org/api-reference/interfaces/_ui_scroll_view_.scrolleventdata) | `Interface` |
 
@@ -23,4 +23,4 @@
 
 | Android               | iOS      |
 |:----------------------|:---------|
-| _NativeScript specific implementation_ | _NativeScript specific implementation_ | 
+| _NativeScript specific implementation_ | _NativeScript specific implementation_ |

@@ -7,10 +7,11 @@ Then when the user inputs new string into the `TextField`, the two-way binding w
 <snippet id='two-way-binding-code'/>
 <snippet id='two-way-binding-code-ts'/>
 
-To create a binding in XML, a source object is needed, which will be created the same way, as in the example above. Then the binding is described in the XML (using a mustache syntax). 
-With an XML declaration, only the names of the properties are set - for the target: text, and for source: textSource. 
+To create a binding in XML, a source object is needed, which will be created the same way, as in the example above. Then the binding is described in the XML (using a mustache syntax).
+With an XML declaration, only the names of the properties are set - for the target: text, and for source: textSource.
 The interesting thing here is that the source of the binding is not specified explicitly. More about this topic will be discussed in the Binding source article.
-```XML
+
+``` XML
 <Page xmlns="http://schemas.nativescript.org/tns.xsd">
     <StackLayout>
         <TextField text="{{ textSource }}" />
@@ -18,4 +19,4 @@ The interesting thing here is that the source of the binding is not specified ex
 </Page>
 ```
 
-> **Note:** When creating UI elements with an XML declaration, the data binding is two-way by default.
+> **Note**: When creating UI elements with an XML declaration, the data binding is two-way by default.

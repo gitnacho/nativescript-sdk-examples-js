@@ -1,7 +1,9 @@
 ## Tips And Tricks
 
 ### Creating Label via Code-Behind
+
 Creating a `Label` programmatically with `text`.
+
 <snippet id='label-code-create' />
 <snippet id='label-code-create-ts' />
 
@@ -26,10 +28,10 @@ Creating a `Label` programmatically with `text`.
 
 ## API References
 
-| Name     | Type    | 
+| Name     | Type    |
 |----------|---------|
-| [tns-core-modules/ui/label](http://docs.nativescript.org/api-reference/modules/_ui_label_.html) | `Module` | 
-| [Label](https://docs.nativescript.org/api-reference/classes/_ui_label_.label) | `Class` | 
+| [tns-core-modules/ui/label](http://docs.nativescript.org/api-reference/modules/_ui_label_.html) | `Module` |
+| [Label](https://docs.nativescript.org/api-reference/classes/_ui_label_.label) | `Class` |
 
 ## Native Component
 

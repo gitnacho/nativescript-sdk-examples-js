@@ -12,4 +12,3 @@
 **API Reference for the** [AnimationCurve Enum](https://docs.nativescript.org/api-reference/modules/_ui_enums_.animationcurve)
 
 **See also:** [CSS Animations](https://docs.nativescript.org/ui/animation-css)
-

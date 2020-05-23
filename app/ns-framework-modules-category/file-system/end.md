@@ -69,15 +69,13 @@
 | `join(...paths: string[])`   | `string` | Joins all the provided string components, forming a valid and normalized path. |
 | `normalize(path: string)`   | `string` | Normalizes a path, taking care of occurrances like ".." and "//". |
 
-
 ## API References
 
-| Name     | Type    | 
+| Name     | Type    |
 |----------|---------|
-| [tns-core-modules/file-system](https://docs.nativescript.org/api-reference/modules/_file_system_.html) | `Module` | 
-| [FileSystem](https://docs.nativescript.org/api-reference/classes/_file_system_.file.html) | `Class` | 
+| [tns-core-modules/file-system](https://docs.nativescript.org/api-reference/modules/_file_system_.html) | `Module` |
+| [FileSystem](https://docs.nativescript.org/api-reference/classes/_file_system_.file.html) | `Class` |
 | [FileSystemEntity](https://docs.nativescript.org/api-reference/classes/_file_system_.filesystementity.html) | `Class` |
 | [Folder](https://docs.nativescript.org/api-reference/classes/_file_system_.folder.html) | `Class` |
 | [knownFolders](https://docs.nativescript.org/api-reference/modules/_file_system_.knownfolders) | `Module` |
 | [path](https://docs.nativescript.org/api-reference/modules/_file_system_.path) | `Module` |
-

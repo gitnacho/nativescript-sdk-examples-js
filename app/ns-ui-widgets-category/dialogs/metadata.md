@@ -4,4 +4,5 @@ description: The Dialog module provides a functionality, which allows creating d
 position: 220
 slug: dialogs
 ---
+
 example-order: alert-dialog, action-dialog, confirm-dialog, login-dialog, prompt-dialog

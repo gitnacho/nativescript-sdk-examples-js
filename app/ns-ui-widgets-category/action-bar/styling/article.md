@@ -2,4 +2,4 @@ To style the `ActionBar`, you can use only `background-color` and `color` proper
 
 <snippet id='actionbar-icon-fonts-xml'/>
 
-> **Note:** In iOS, the `color` property affects the color of the title and the action items. In Android, the `color` property affects only the title text. However, you can set the default color of the text in the action items by adding an `actionMenuTextColor` item in the Android theme (inside `App_Resources\Android\values\styles.xml`).
+> **Note**: In iOS, the `color` property affects the color of the title and the action items. In Android, the `color` property affects only the title text. However, you can set the default color of the text in the action items by adding an `actionMenuTextColor` item in the Android theme (inside `App_Resources\Android\values\styles.xml`).

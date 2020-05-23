@@ -42,14 +42,11 @@
 
 | Name     | Type    |
 |----------|---------|
-| [tns-core-modules/ui/text-field](http://docs.nativescript.org/api-reference/modules/_ui_text_field_.html) | `Module` | 
+| [tns-core-modules/ui/text-field](http://docs.nativescript.org/api-reference/modules/_ui_text_field_.html) | `Module` |
 | [TextField](https://docs.nativescript.org/api-reference/classes/_ui_text_field_.textfield) | `Class` |
-
 
 ## Native Component
 
 | Android               | iOS      |
 |:----------------------|:---------|
 | [android.widget.EditText](http://developer.android.com/reference/android/widget/EditText.html) | [UITextField](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UITextField_Class/) |
-
-

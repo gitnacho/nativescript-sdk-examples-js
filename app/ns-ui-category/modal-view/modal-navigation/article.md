@@ -7,13 +7,18 @@ Main page
 <snippet id='main-page-ts-navigation' />
 
 Modal root
+
 <snippet id='modal-root-xml-navigation' />
 <snippet id='modal-root-xml-navigation-ts' />
+
 First modal view
+
 <snippet id='first-modal-view-xml-navigation' />
 <snippet id='first-modal-view-js-navigation' />
 <snippet id='first-modal-view-ts-navigation' />
+
 Second modal view
+
 <snippet id='second-modal-view-xml-navigation' />
 <snippet id='second-modal-view-js-navigation' />
 <snippet id='second-modal-view-ts-navigation' />

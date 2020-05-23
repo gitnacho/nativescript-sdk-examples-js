@@ -1,7 +1,7 @@
 
 **API Reference for the** [TabView Class](http://docs.nativescript.org/api-reference/modules/_ui_tab_view_.html)
 
-**Native Component**
+**Native Component**:
 
 | Android                | iOS      |
 |:-----------------------|:---------|

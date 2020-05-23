@@ -10,12 +10,12 @@
 
 ## API References
 
-| Name     | Type    | 
+| Name     | Type    |
 |----------|---------|
-| [tns-core-modules/fps-meter](https://docs.nativescript.org/api-reference/modules/_fps_meter_.html) | `Module` | 
+| [tns-core-modules/fps-meter](https://docs.nativescript.org/api-reference/modules/_fps_meter_.html) | `Module` |
 
 ## Native Component
 
 | Android               | iOS      |
 |:----------------------|:---------|
-| [android.view.Choreographer](https://developer.android.com/reference/android/view/Choreographer) | [CADisplayLink](https://developer.apple.com/documentation/quartzcore/cadisplaylink) | 
+| [android.view.Choreographer](https://developer.android.com/reference/android/view/Choreographer) | [CADisplayLink](https://developer.apple.com/documentation/quartzcore/cadisplaylink) |

@@ -1,4 +1,4 @@
-## Methods
+# Methods
 
 | Name     | Type    | Description    |
 |----------|---------|----------------|
@@ -8,13 +8,13 @@
 
 ## API References
 
-| Name     | Type    | 
+| Name     | Type    |
 |----------|---------|
-| [tns-core-modules/connectivity](https://docs.nativescript.org/api-reference/modules/_connectivity_.html) | `Module` | 
-| [connectionTypoe](https://docs.nativescript.org/api-reference/enums/_connectivity_.connectiontype) | `Enum` | 
+| [tns-core-modules/connectivity](https://docs.nativescript.org/api-reference/modules/_connectivity_.html) | `Module` |
+| [connectionTypoe](https://docs.nativescript.org/api-reference/enums/_connectivity_.connectiontype) | `Enum` |
 
 ## Native Component
 
 | Android               | iOS      |
 |:----------------------|:---------|
-| [CONNECTIVITY_SERVICE (android.content.Context)](https://developer.android.com/reference/android/content/Context) | [SCNetworkReachability](https://developer.apple.com/documentation/systemconfiguration/scnetworkreachability-g7d) | 
+| [CONNECTIVITY_SERVICE (android.content.Context)](https://developer.android.com/reference/android/content/Context) | [SCNetworkReachability](https://developer.apple.com/documentation/systemconfiguration/scnetworkreachability-g7d) |

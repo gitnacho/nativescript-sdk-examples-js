@@ -4,4 +4,5 @@ description: The NativeScript's BottomNavigation component provides a simple way
 position: 416
 slug: bottom-navigation
 ---
+
 example-order: usage, styling, properties, events, tips-and-tricks

@@ -30,7 +30,6 @@
 | `okButtonText`  | `string`  | Gets or sets the OK button text. |
 | `neutralButtonText`  | `string`  | Gets or sets the neutral button text.|
 
-
 ### Login Dialog Properties
 
 | Name     | Type      | Description    |
@@ -81,28 +80,27 @@ The result are received in the dialog resolved promise after the user closes or 
 
 ## Events
 
-No applicable events are present. The dialogs are using promises to return results. 
+No applicable events are present. The dialogs are using promises to return results.
 
 ## API References
 
 | Name     | Type    | API Reference Link |
 |----------|---------|--------------------|
-| [tns-core-modules/ui/dialogs](https://docs.nativescript.org/api-reference/modules/_ui_dialogs_) | `Module` | 
-| [action](https://docs.nativescript.org/api-reference/modules/_ui_dialogs_#action) | `function`  | 
-| [ActionOptions](https://docs.nativescript.org/api-reference/interfaces/_ui_dialogs_.actionoptions) | `interface`  | 
-| [alert](https://docs.nativescript.org/api-reference/modules/_ui_dialogs_#alert) | `function`  | 
-| [AlertOptions](https://docs.nativescript.org/api-reference/interfaces/_ui_dialogs_.alertoptions) | `interface`  | 
-| [confirm](https://docs.nativescript.org/api-reference/modules/_ui_dialogs_#confirm) | `function`  | 
-| [ConfirmOptions](https://docs.nativescript.org/api-reference/interfaces/_ui_dialogs_.confirmoptions) | `interface`  | 
-| [login](https://docs.nativescript.org/api-reference/modules/_ui_dialogs_#login) | `function`  | 
-| [LoginOptions](https://docs.nativescript.org/api-reference/interfaces/_ui_dialogs_.loginoptions) | `interface`  | 
-| [LoginResults](https://docs.nativescript.org/api-reference/interfaces/_ui_dialogs_.loginresult) | `interface`  | 
-| [prompt](https://docs.nativescript.org/api-reference/modules/_ui_dialogs_#prompt) | `function`  | 
-| [PromptOptions](https://docs.nativescript.org/api-reference/interfaces/_ui_dialogs_.promptoptions) | `interface`  | 
+| [tns-core-modules/ui/dialogs](https://docs.nativescript.org/api-reference/modules/_ui_dialogs_) | `Module` |
+| [action](https://docs.nativescript.org/api-reference/modules/_ui_dialogs_#action) | `function`  |
+| [ActionOptions](https://docs.nativescript.org/api-reference/interfaces/_ui_dialogs_.actionoptions) | `interface`  |
+| [alert](https://docs.nativescript.org/api-reference/modules/_ui_dialogs_#alert) | `function`  |
+| [AlertOptions](https://docs.nativescript.org/api-reference/interfaces/_ui_dialogs_.alertoptions) | `interface`  |
+| [confirm](https://docs.nativescript.org/api-reference/modules/_ui_dialogs_#confirm) | `function`  |
+| [ConfirmOptions](https://docs.nativescript.org/api-reference/interfaces/_ui_dialogs_.confirmoptions) | `interface`  |
+| [login](https://docs.nativescript.org/api-reference/modules/_ui_dialogs_#login) | `function`  |
+| [LoginOptions](https://docs.nativescript.org/api-reference/interfaces/_ui_dialogs_.loginoptions) | `interface`  |
+| [LoginResults](https://docs.nativescript.org/api-reference/interfaces/_ui_dialogs_.loginresult) | `interface`  |
+| [prompt](https://docs.nativescript.org/api-reference/modules/_ui_dialogs_#prompt) | `function`  |
+| [PromptOptions](https://docs.nativescript.org/api-reference/interfaces/_ui_dialogs_.promptoptions) | `interface`  |
 
 ## Native Component
 
 | Android               | iOS      |
 |:----------------------|:---------|
-| [android.app.AlertDialog.Builder](https://developer.android.com/reference/android/app/AlertDialog.Builder)  | [UIAlertController](https://developer.apple.com/documentation/uikit/uialertcontroller) | 
-
+| [android.app.AlertDialog.Builder](https://developer.android.com/reference/android/app/AlertDialog.Builder)  | [UIAlertController](https://developer.apple.com/documentation/uikit/uialertcontroller) |

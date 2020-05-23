@@ -3,7 +3,8 @@ The `id` property can be used to get a reference to the frame instance.
 <snippet id='frame-reference-get-id-xml'/>
 
 More complex application structure can be created by using multiple frame instances.For example, you can create a `TabView` while using different frames for each tab item.
-```XML
+
+``` XML
 <TabView>
     <TabViewItem title="First">
         <Frame id="firstFrame" defaultPage="home/home-page" />

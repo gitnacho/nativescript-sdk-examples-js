@@ -1,4 +1,4 @@
-**Native Component**
+**Native Component**:
 
 | Android                | iOS      |
 |:-----------------------|:---------|

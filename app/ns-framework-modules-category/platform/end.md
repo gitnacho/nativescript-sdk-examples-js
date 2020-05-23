@@ -16,8 +16,8 @@
 
 ## API References
 
-| Name     | Type    | 
+| Name     | Type    |
 |----------|---------|
-| [tns-core-modules/platform](https://docs.nativescript.org/api-reference/modules/_platform_.html) | `Module` | 
+| [tns-core-modules/platform](https://docs.nativescript.org/api-reference/modules/_platform_.html) | `Module` |
 | [Device](https://docs.nativescript.org/api-reference/interfaces/_platform_.device) | `Interface` |
 | [ScreenMetrics](https://docs.nativescript.org/api-reference/interfaces/_platform_.screenmetrics) | `Interface` |

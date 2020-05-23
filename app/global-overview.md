@@ -21,5 +21,4 @@ All the samples have automated tests associated with them and you can be sure th
 
 We hope you will enjoy using this resource. If you have any other feedback please [open an issue](https://github.com/NativeScript/nativescript-sdk-examples/issues).
 
-
 > **See also**: If you are interested in NativeScript + Angular examples visit our Angular counter-part section [NativeScript Angular Code Samples](https://docs.nativescript.org/angular/code-samples/overview)

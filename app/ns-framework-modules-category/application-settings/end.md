@@ -1,4 +1,4 @@
-## Methods
+# Methods
 
 | Name     | Type    | Description    |
 |----------|---------|----------------|
@@ -14,15 +14,14 @@
 | `setNumber(key: string, value: number)`   | `void` | Sets a Number Object for a key. |
 | `setString(key: string, value: string)`   | `void` | Sets a String Object for a key. |
 
-
 ## API References
 
-| Name     | Type    | 
+| Name     | Type    |
 |----------|---------|
-| [tns-core-modules/application-settings](https://docs.nativescript.org/api-reference/modules/_application_settings_.html) | `Module` | 
+| [tns-core-modules/application-settings](https://docs.nativescript.org/api-reference/modules/_application_settings_.html) | `Module` |
 
 ## Native Component
 
 | Android               | iOS      |
 |:----------------------|:---------|
-| [android.content.SharedPreferences](https://developer.android.com/reference/android/content/SharedPreferences.html) | [NSUserDefaults](https://developer.apple.com/documentation/foundation/nsuserdefaults) | 
+| [android.content.SharedPreferences](https://developer.android.com/reference/android/content/SharedPreferences.html) | [NSUserDefaults](https://developer.apple.com/documentation/foundation/nsuserdefaults) |

@@ -8,10 +8,10 @@
 
 ## API References
 
-| Name     | Type    | 
+| Name     | Type    |
 |----------|---------|
-| [tns-core-modules/ui/progress](http://docs.nativescript.org/api-reference/modules/_ui_progress_.html) | `Module` | 
-| [Progress](https://docs.nativescript.org/api-reference/classes/_ui_progress_.progress) | `Class` | 
+| [tns-core-modules/ui/progress](http://docs.nativescript.org/api-reference/modules/_ui_progress_.html) | `Module` |
+| [Progress](https://docs.nativescript.org/api-reference/classes/_ui_progress_.progress) | `Class` |
 
 ## Native Component
 
