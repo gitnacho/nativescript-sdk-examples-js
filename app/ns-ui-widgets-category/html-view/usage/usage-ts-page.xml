@@ -3,6 +3,6 @@
 		<ActionBar title="Basics"/>
 	</Page.actionBar>
     <StackLayout id="container" verticalAlignment="middle" horizontalAlignment="center" margin="16">
-        <HtmlView html="{{ htmlString }}"></HtmlView> 
+        <HtmlView html="{{ htmlString }}"></HtmlView>
     </StackLayout>
 </Page>

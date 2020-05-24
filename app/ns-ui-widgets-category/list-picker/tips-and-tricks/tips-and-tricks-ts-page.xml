@@ -3,8 +3,8 @@
 		<ActionBar title="Getting Started"/>
 	</Page.actionBar>
     <StackLayout>
-  
-        <ListPicker 
+
+        <ListPicker
             loaded="onListPickerLoaded"
             items="{{ items }}"
             textField="name"

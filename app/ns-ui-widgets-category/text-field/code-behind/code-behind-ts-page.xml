@@ -6,6 +6,6 @@
     <StackLayout id="stackLayoutId">
         <Button text="{{ secureButton }}" tap="{{ onTap }}" />
 				<Label text="{{ 'Result: ' + tfResult}}" textWrap="true" />
-        
+
     </StackLayout>
 </Page>

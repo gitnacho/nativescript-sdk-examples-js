@@ -4,7 +4,7 @@ var path = require("path");
 var fs = require('fs-extra');
 var rimraf = require("rimraf");
 var targz = require('tar.gz');
- 
+
 function archive(){
     var cwd = process.cwd();
 
@@ -14,7 +14,7 @@ function archive(){
     var env = process.env.ENV || "dev";
     var archiveFile = path.join(distDir, "sdk-cookbook-" + env + "-" + version + ".tar.gz");
     rimraf.sync(archiveFile);
-    
+
     var read = targz().createReadStream(sourceDir);
     var write = fs.createWriteStream(archiveFile);
     read.pipe(write);

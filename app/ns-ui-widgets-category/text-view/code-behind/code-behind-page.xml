@@ -5,7 +5,7 @@
     <!-- >> creating-text-view-xml -->
     <StackLayout id="stackLayoutId">
         <Button text="Disable third TextView" tap="{{ onTap }}" />
-        
+
     </StackLayout>
     <!-- << creating-text-view-xml -->
 </Page>

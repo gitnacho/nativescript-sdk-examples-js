@@ -9,8 +9,8 @@
         <Label text="{{ timeResult }}" row="1" col="0" colSpan="2" textWrap="true" />
         <!-- >> creating-timepicker-xml -->
         <TimePicker hour="10" minute="25"
-                    loaded="onPickerLoaded" 
-                    row="2" col="0" colSpan="2" 
+                    loaded="onPickerLoaded"
+                    row="2" col="0" colSpan="2"
                     class="m-15" verticalAlignment="center">
         </TimePicker>
         <!-- << creating-timepicker-xml -->

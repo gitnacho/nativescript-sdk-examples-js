@@ -2,22 +2,22 @@
 /* >> css-styling */
 
 /* Using component Class name (e.g. stlye will be applied on all Buttons) */
-Button { 
-    background-color: red; 
-} 
+Button {
+    background-color: red;
+}
 
 /* Using CSS class */
-.testClass { 
-    color: blue; 
-} 
+.testClass {
+    color: blue;
+}
 
 /* Using ID */
-#myButton { 
-    color: yellow; 
-} 
+#myButton {
+    color: yellow;
+}
 
 /* Using pseudo-selector :pressed */
-.testClass:pressed { 
-    color: green; 
+.testClass:pressed {
+    color: green;
 }
 /* << css-styling */

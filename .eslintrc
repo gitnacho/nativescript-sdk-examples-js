@@ -146,7 +146,7 @@
             "warn",
             {
                 "vars": "all",
-                
+
                 "args": "none",
                 "ignoreRestSiblings": false
             }

@@ -6,9 +6,9 @@
     <GridLayout rows="50 50 *">
         <Label row="0" text="Binding the ListView items property to collection" textWrap="true" />
         <Button row="1" text="Add new item" tap="onTap" />
-        <ListView items="{{ myTitles }}" 
-                  itemTap="onItemTap" 
-                  loaded="{{ onListViewLoaded }}" 
+        <ListView items="{{ myTitles }}"
+                  itemTap="onItemTap"
+                  loaded="{{ onListViewLoaded }}"
                   separatorColor="orangered" rowHeight="50"
                   class="list-group" id="listView"  row="2">
 			<ListView.itemTemplate>
@@ -17,6 +17,6 @@
 					<Label text="{{ title || 'Downloading...' }}" textWrap="true" class="title" />
 				</StackLayout>
 			</ListView.itemTemplate>
-		</ListView>     
+		</ListView>
     </GridLayout>
 </Page>

@@ -85,21 +85,21 @@ var mainMenuLinks = [
 
 ## Run Application
 
-``` Node
+``` Shell
 npm install
 tns run android
 ```
 
 or
 
-``` Node
+``` Shell
 npm install
 tns run ios
 ```
 
 ## Build Article
 
-``` Node
+``` Shell
 npm run build
 ```
 

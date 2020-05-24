@@ -10,7 +10,7 @@
                     <Label text="{{ title || 'Downloading...' }}" textWrap="true" class="title" />
                 </StackLayout>
             </ListView.itemTemplate>
-        </ListView>  
+        </ListView>
         <!-- << list-view-events-xml -->
     </GridLayout>
 </Page>

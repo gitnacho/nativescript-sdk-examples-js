@@ -4,7 +4,7 @@
 	</Page.actionBar>
     <StackLayout>
         <!-- >> list-picker-key-value-pairs-xml -->
-        <ListPicker 
+        <ListPicker
             loaded="onListPickerLoaded"
             items="{{ items }}"
             textField="name"

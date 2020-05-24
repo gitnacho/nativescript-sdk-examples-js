@@ -8,7 +8,7 @@
         <!-- >> gest-long-press-xml -->
         <GridLayout class="bg-primary p-15 m-15" width="200" height="200" longPress="onLongPress">
             <!-- >> (hide) -->
-            <Image class="img-rounded" src="res://icon" stretch="none"/> 
+            <Image class="img-rounded" src="res://icon" stretch="none"/>
             <!-- << (hide) -->
         </GridLayout>
         <!-- << gest-long-press-xml -->

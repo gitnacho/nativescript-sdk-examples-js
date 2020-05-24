@@ -6,9 +6,9 @@
 		<Label row="0" text="Binding the ListView items property to collection" textWrap="true" />
 		<Button row="1" text="Add new item" tap="onTap" />
 		<!-- >> list-view-create-xml -->
-		<ListView items="{{ myTitles }}" 
-                  itemTap="onItemTap" 
-                  loaded="{{ onListViewLoaded }}" 
+		<ListView items="{{ myTitles }}"
+                  itemTap="onItemTap"
+                  loaded="{{ onListViewLoaded }}"
                   separatorColor="orangered" rowHeight="50"
                   class="list-group" id="listView" row="2">
 			<ListView.itemTemplate>

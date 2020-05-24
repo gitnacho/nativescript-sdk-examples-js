@@ -5,9 +5,9 @@
 	</Page.actionBar>
 
     <GridLayout rows="auto, *">
-        
+
         <Button text="Open modal" tap="openModal" textWrap="true" />
-        
+
     </GridLayout>
 </Page>
 <!-- << main-view-xml -->

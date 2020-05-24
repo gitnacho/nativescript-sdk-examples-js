@@ -4,7 +4,7 @@
 	</Page.actionBar>
 	<GridLayout rows="*" columns="*">
 		<!-- >> tab-view-styling-xml -->
-		<TabView selectedTabTextColor="white" 
+		<TabView selectedTabTextColor="white"
 				 tabBackgroundColor="orangered"
 				 tabTextFontSize="16"
 				 androidSelectedTabHighlightColor="green">

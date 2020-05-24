@@ -4,7 +4,7 @@ stack-layout{
 button, label, stack-layout {
     font-size: 20;
     margin: 11;
-    horizontal-align: center;    
+    horizontal-align: center;
 }
 Slider{
     width: 200;

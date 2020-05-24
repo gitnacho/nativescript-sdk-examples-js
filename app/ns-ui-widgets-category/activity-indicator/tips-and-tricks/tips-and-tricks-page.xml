@@ -4,7 +4,7 @@
     </Page.actionBar>
     <StackLayout verticalAlignment="middle">
         <!-- >> large-ios-indicator-xml -->
-        <ActivityIndicator loaded="onLoaded" busy="true" backgroundColor="red" width="100" height="100"/>               
+        <ActivityIndicator loaded="onLoaded" busy="true" backgroundColor="red" width="100" height="100"/>
         <!-- << large-ios-indicator-xml -->
     </StackLayout>
 </Page>

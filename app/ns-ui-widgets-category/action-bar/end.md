@@ -1,6 +1,6 @@
-## Tips And Tricks
+# Tips And Tricks
 
-### Setting App Icon For Android
+## Setting App Icon For Android
 
 You can set the application icon only for Android. By default, the application icon is hidden. You can show it by setting the android.iconVisibility property to always.
 
@@ -45,7 +45,8 @@ For Android, this example uses the `NavigationButton` because `ActionItems` are 
 For iOS, this code adds a regular `ActionItem` with `position` set to `left`. Using the `NavigationButton` as a side-drawer button in iOS is not possible, because its function is to always navigate back in the application.
 
 > **Note**: The `<android>` and `<ios>` tags are used inside the XML to define platform-specific elements.
->Important: The platform specific tags (`<android>` and `<ios>`) will work only in non-Angular based project.
+>
+> **Important**: The platform specific tags (`<android>` and `<ios>`) will work only in non-Angular based project.
 
 ### Creating ActionBar via Code-Behind
 

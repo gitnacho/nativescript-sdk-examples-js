@@ -6,7 +6,7 @@
     <!-- >> creating-progress-xml -->
     <StackLayout id="stackLayoutId">
 		    <Label text="{{ 'Result: ' + prResult}}" textWrap="true" />
-        
+
     </StackLayout>
     <!-- << creating-progress-xml -->
 </Page>

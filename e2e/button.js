@@ -54,7 +54,7 @@ describe("button scenarios", () => {
         const dialog = await driver.findElementByText(text, "contains");
         chai.assert.isTrue(await dialog.isDisplayed());
         await (await driver.findElementByText("OK", "contains")).tapCenter();
-        
+
     });
 
     it(`Styling`, async () => {

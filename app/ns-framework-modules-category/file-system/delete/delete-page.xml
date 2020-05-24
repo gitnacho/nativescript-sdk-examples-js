@@ -12,7 +12,7 @@
                     <Button class="btn btn-primary btn-active" text="Delete Folder" tap="onDeleteFolder" textWrap="true"/>
                     <Button class="btn btn-primary btn-active" text="Clear Folder" tap="onClearFolder" textWrap="true"/>
                     <Button class="btn btn-primary btn-active" text="Reset" tap="onReset" textWrap="true"/>
-                </StackLayout> 
+                </StackLayout>
                 <Label class="p-b-15 p-l-15 font-weight-bold" text="{{ resultMessage }}" textWrap="true"/>
             </StackLayout>
         </ScrollView>

@@ -10,7 +10,7 @@
     </Page.actionBar>
     <!-- << action-bar-gettings-started -->
 
-    <StackLayout verticalAlignment="middle"> 
+    <StackLayout verticalAlignment="middle">
         <Label text="{{ '&#xff05a; ' + title }}" textWrap="true" class="fa"/>
     </StackLayout>
 </Page>

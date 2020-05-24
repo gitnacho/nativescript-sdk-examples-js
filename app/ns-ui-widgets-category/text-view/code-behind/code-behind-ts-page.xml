@@ -4,6 +4,6 @@
 	</Page.actionBar>
     <StackLayout id="stackLayoutId">
         <Button text="Disable third TextView" tap="{{ onTap }}" />
-        
+
     </StackLayout>
 </Page>

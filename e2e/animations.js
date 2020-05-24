@@ -88,20 +88,20 @@ describe("animations scenarios", () => {
         const myForthView = driver.findElementByAccessibilityId("myForthView");
         const myFifthView = driver.findElementByAccessibilityId("myFifthView");
 
-        const initMyFirstViewLocation = await (await myFirstView); 
-        const initMySecondViewLocation = await (await mySecondView); 
-        const initMyThirdViewLocation = await (await myThirdView); 
-        const initMyForthViewLocation = await (await myForthView); 
-        const initMyFifthViewLocation = await (await myFifthView); 
+        const initMyFirstViewLocation = await (await myFirstView);
+        const initMySecondViewLocation = await (await mySecondView);
+        const initMyThirdViewLocation = await (await myThirdView);
+        const initMyForthViewLocation = await (await myForthView);
+        const initMyFifthViewLocation = await (await myFifthView);
 
         const animateBtn = await driver.findElementByText("Animate");
         await animateBtn.click();
 
-        const lastMyFirstViewLocation = await (await myFifthView); 
-        const lastMySecondViewLocation = await (await myFifthView); 
-        const lastMyThirdViewLocation = await (await myFifthView); 
-        const lastMyForthViewLocation = await (await myFifthView); 
-        const lastMyFifthViewLocation = await (await myFifthView); 
+        const lastMyFirstViewLocation = await (await myFifthView);
+        const lastMySecondViewLocation = await (await myFifthView);
+        const lastMyThirdViewLocation = await (await myFifthView);
+        const lastMyForthViewLocation = await (await myFifthView);
+        const lastMyFifthViewLocation = await (await myFifthView);
 
         const compareElementsLocation = (intiPositionView, lastPositionView) => {
             chai.assert.isTrue(intiPositionView.x === lastPositionView.x, `Elements ${intiPositionView} and ${lastPositionView} are not on correct position!`);

@@ -5,6 +5,6 @@
     <StackLayout id="container" verticalAlignment="middle" horizontalAlignment="center" margin="16">
         <!-- >> html-view-xml -->
         <HtmlView html="{{ htmlString }}"></HtmlView>
-        <!-- << html-view-xml -->    
+        <!-- << html-view-xml -->
     </StackLayout>
 </Page>

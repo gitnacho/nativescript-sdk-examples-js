@@ -52,10 +52,10 @@ describe("aplications scenarios", () => {
 
         await driver.backgroundApp(2);
         const suspendSuspendEvent = await driver.findElementByText("The appication was suspended!", "contains");
-        chai.assert.isTrue(await suspendSuspendEvent.isDisplayed(), "suspendSuspendEvent is not thrown"); 
+        chai.assert.isTrue(await suspendSuspendEvent.isDisplayed(), "suspendSuspendEvent is not thrown");
 
         const suspendResumeEvent = await driver.findElementByText("The appication was resumed", "contains");
-        chai.assert.isTrue(await suspendResumeEvent.isDisplayed(), "suspendResumeEvent is not thrown"); 
+        chai.assert.isTrue(await suspendResumeEvent.isDisplayed(), "suspendResumeEvent is not thrown");
     });
 
     it(`Check Platform`, async () => {

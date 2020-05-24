@@ -11,11 +11,11 @@
         <Label text="{{ 'minuteInterval: ' + tpminuteInterval }}" row="2" col="0" colSpan="2" textWrap="true" />
         <Label text="{{ 'Time result: ' + timeResult }}" row="3" col="0" colSpan="2" textWrap="true" fontWeight="bold"/>
         <!-- >> binding-timepicker-xml -->
-        <TimePicker loaded="onPickerLoaded" 
-                    hour="{{ tphour }}" minute="{{ tpminute }}" 
+        <TimePicker loaded="onPickerLoaded"
+                    hour="{{ tphour }}" minute="{{ tpminute }}"
                     minuteInterval="{{ tpminuteInterval }}"
                     maxHour="{{ tpMaxHour }}" maxMinute="{{ tpMaxMinute }}"
-                    minHour="{{ tpMinHour }}" minMinute="{{ tpMinMinute }}" 
+                    minHour="{{ tpMinHour }}" minMinute="{{ tpMinMinute }}"
                     verticalAlignment="center" row="4" col="0" colSpan="2" class="m-15">
         </TimePicker>
         <!-- << binding-timepicker-xml -->

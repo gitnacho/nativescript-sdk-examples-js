@@ -4,7 +4,7 @@
       loaded="onPageLoaded"
       navigatingFrom="onNavigatingFrom"
       navigatingTo="onNavigatingTo"
-      unloaded="onUnloaded" 
+      unloaded="onUnloaded"
       layoutChanged="onLayoutChanged">
     <!-- >> (hide) -->
     <Page.actionBar>

@@ -23,7 +23,7 @@
           "variable-declaration": "space"
         }
       ],
-  
+
       "ban": false,
       "curly": true,
       "no-arg": true,
@@ -73,7 +73,7 @@
           "singleline": "never"
         }
       ],
-  
+
       "align": false,
       "class-name": true,
       "comment-format": [

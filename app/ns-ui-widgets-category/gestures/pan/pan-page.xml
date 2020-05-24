@@ -3,7 +3,7 @@
 		<ActionBar title="Pan"/>
 	</Page.actionBar>
 
-   
+
 
     <StackLayout>
         <Label text="Apply pan gesture inside the box" class="h3 p-15 text-left" />

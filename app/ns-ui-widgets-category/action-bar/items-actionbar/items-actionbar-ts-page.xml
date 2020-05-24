@@ -4,7 +4,7 @@
             <ActionItem tap="onShare"
                 ios.systemIcon="9" ios.position="left"
                 android.systemIcon="ic_menu_share" android.position="actionBar"></ActionItem>
-            <ActionItem tap="onDelete" text="delete" 
+            <ActionItem tap="onDelete" text="delete"
                 ios.systemIcon="16" ios.position="right"
                 android.position="popup"></ActionItem>
         </ActionBar>

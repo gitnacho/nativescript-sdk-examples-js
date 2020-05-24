@@ -24,7 +24,7 @@
         </ListView>
         <!-- << list-view-multy-template-xml -->
         <Label row="2" text="Second ListView" textWrap="true" />
-        <!-- >> listview-create-selector-function-xml -->  
+        <!-- >> listview-create-selector-function-xml -->
         <ListView row="3" items="{{ listArray }}"  class="list-group" itemTemplateSelector="selectItemTemplate">
             <ListView.itemTemplates>
                 <template key="even">
@@ -40,7 +40,7 @@
                     </StackLayout>
                 </template>
             </ListView.itemTemplates>
-        </ListView>      
+        </ListView>
         <!-- << listview-create-selector-function-xml -->
     </GridLayout>
 </Page>

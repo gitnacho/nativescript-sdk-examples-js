@@ -16,5 +16,5 @@
         <!-- Example demonstrating the boolean property usage with visibility and ternary expression-->
         <Label text="{{ isVisible }}" textWrap="true" visibility="{{ isItemVisible, isItemVisible ? 'visible' : 'collapsed' }}"/>
         <!-- << observable-class-xml -->
-    </StackLayout> 
+    </StackLayout>
 </Page>

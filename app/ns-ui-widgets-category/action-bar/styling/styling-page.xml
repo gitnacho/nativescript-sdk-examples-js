@@ -4,11 +4,11 @@
 		<ActionBar>
             <!-- Explicitly hiding the NavigaitonBar to prevent the default one on iOS-->
             <NavigationButton text="Back" visibility="collapsed" />
-            
+
             <ActionBar.actionItems>
                 <!-- Using the icon property and Icon Fonts -->
                 <ActionItem position="left" icon="font://&#xf0a8;" class="fas" tap="goBack"/>
-                
+
                 <!-- Creating custom views for ActionItem-->
                 <ActionItem ios.position="right">
                         <!-- <GridLayout rows="*" columns="*" width="100"> -->

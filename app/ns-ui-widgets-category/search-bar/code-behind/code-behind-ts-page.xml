@@ -4,6 +4,6 @@
     </Page.actionBar>
     <StackLayout id="stackLayoutId">
 		<Label text="{{ 'Result(text): ' + sbResult}}" textWrap="true" />
-        
+
     </StackLayout>
 </Page>

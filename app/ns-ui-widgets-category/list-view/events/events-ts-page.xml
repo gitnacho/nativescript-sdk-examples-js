@@ -9,6 +9,6 @@
                     <Label text="{{ title || 'Downloading...' }}" textWrap="true" class="title" />
                 </StackLayout>
             </ListView.itemTemplate>
-        </ListView>  
+        </ListView>
     </GridLayout>
 </Page>

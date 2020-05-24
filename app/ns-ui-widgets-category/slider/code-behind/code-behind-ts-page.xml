@@ -5,6 +5,6 @@
 
     <StackLayout id="stackLayoutId">
 		    <Label text="{{ 'Result: ' + slResult}}" textWrap="true" />
-        
+
     </StackLayout>
 </Page>

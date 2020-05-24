@@ -3,7 +3,7 @@
       loaded="onPageLoaded"
       navigatingFrom="onNavigatingFrom"
       navigatingTo="onNavigatingTo"
-      unloaded="onUnloaded" 
+      unloaded="onUnloaded"
       layoutChanged="onLayoutChanged">
     <Page.actionBar>
 		<ActionBar title="Page Events"/>
