@@ -8,7 +8,7 @@ Each interactive view in NativeScript can access the gesture events it will rais
 | `doubleTap`    | Emitted when the view is double tapped.|
 | `touch`    | Emitted when the view is touched. Returns action state from [`TouchGestureEventData`](https://docs.nativescript.org/api-reference/interfaces/_ui_gestures_.touchgestureeventdata) |
 | `longPress`    | Emitted when the view is tapped and hold. Returns `state`. |
-| `pan`    | Emitted when the view is paned. Rewturns `deltaX` and `deltaY` coordinates as numbers. |
+| `pan`    | Emitted when the view is paned. Returns `deltaX` and `deltaY` coordinates as numbers. |
 | `pinch`    | Emitted when the view is pinched. Returns `scale` |
 | `swipe`    | Emitted when the view is swiped left/right. Returns `direction` as [`SwipeDirection`](https://docs.nativescript.org/api-reference/enums/_ui_gestures_.swipedirection) |
 

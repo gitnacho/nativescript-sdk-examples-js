@@ -18,7 +18,7 @@
 | Name     | Description    |
 |----------|----------------|
 | `clear`  | Emitted when the search is cleared (via the clear button). |
-| `submit` | Emitted when the serach term is submitted.   |
+| `submit` | Emitted when the search term is submitted. |
 
 ## API References
 

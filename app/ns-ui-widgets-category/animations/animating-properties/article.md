@@ -1,21 +1,21 @@
 NativeScript allows us to animate the properties of the element we want.
 Once the parameters of the animate method are set (e.g. `scale`, `rotate`, `duration`, etc.), the properties will be animated.
 
-NativeScript lets you animate the following properties:
+* NativeScript lets you animate the following properties:
 
-`opacity`
-`backgroundColor`
-`translateX` and `translateY`
-`scaleX` and `scaleY`
-`rotate`
-`width` and `height`
+  + `opacity`
+  + `backgroundColor`
+  + `translateX` and `translateY`
+  + `scaleX` and `scaleY`
+  + `rotate`
+  + `width` and `height`
 
-In every animation, you can control the following properties:
+* In every animation, you can control the following properties:
 
-`duration`: The length of the animation.
-`delay`: The amount of time to delay starting the animation.
-`iterations`: Specifies how many times the animation should be played.
-`curve`: The speed curve of the animation. Available options are defined below.
+  + `duration`: The length of the animation.
+  + `delay`: The amount of time to delay starting the animation.
+  + `iterations`: Specifies how many times the animation should be played.
+  + `curve`: The speed curve of the animation. Available options are defined below.
 
 Property values:
 

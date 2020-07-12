@@ -19,7 +19,7 @@ The `navigate` method accepst [`NavigationEntry`](https://docs.nativescript.org/
 <snippet id='frame-navigate-module'/>
 <snippet id='frame-navigate-module-ts'/>
 
-Full list of the NavigaitonEntry properties. Note that all of them are optional. Even the `moduleName` is optional, as alternatively you can pass a dynamically created page via `create`.
+Full list of the NavigationEntry properties. Note that all of them are optional. Even the `moduleName` is optional, as alternatively you can pass a dynamically created page via `create`.
 
 * [animated](https://docs.nativescript.org/api-reference/interfaces/_ui_frame_.navigationentry#animated) - True to navigate to the new Page using animated transitions, false otherwise.
 * [backstackVisible](https://docs.nativescript.org/api-reference/interfaces/_ui_frame_.navigationentry#backstackVisible) - True to record the navigation in the backstack, false otherwise. If the parameter is set to false then the Page will be displayed but once navigated from it will not be able to be navigated back to.

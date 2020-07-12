@@ -1,7 +1,6 @@
 
 The application module provides cross-platform application events to handle different application states.
-With the provided application events the user can handle launch, resume, suspend and exit states or provide logic
-related to the screen orientation, uncaught errors and low memory events.
+With the provided application events the user can handle launch, resume, suspend and exit states or provide logic related to the screen orientation, uncaught errors and low memory events.
 
 Use the application method `on` to add event listeners.
 
